@@ -11,15 +11,15 @@ Power Bi Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMjA3ODUwMjUtOTk2
 - Evaluating the performance of booking platforms.
 - Identifying key metrics for each property.
 ## Key Insights
-1.Revenue
+1. Revenue
 2.RevPAR (Revenue Per Available Room)
-3.ADR (Average Daily Rate)
-4.DSRN (Daily Sellable Room Nights)
-5.DBRN (Daily Booked Room Nights)
-6.DURN (Daily Utilized Room Nights)
-7.Realization %
-8.Occupancy %
-9.Cancellation %
+3. ADR (Average Daily Rate)
+4. DSRN (Daily Sellable Room Nights)
+5. DBRN (Daily Booked Room Nights)
+6. DURN (Daily Utilized Room Nights)
+7. Realization %
+8. Occupancy %
+9. Cancellation %
 
 ## 🛠 Skills and Techniques
 Calculated Columns,
@@ -40,16 +40,17 @@ Graphs and Charts like Donut charts, Line , Ribbon.
 
 
 ## Screenshots
+HOMEPAGE
 ![Homepage](https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project/assets/64974135/c64ea424-bd1a-40be-b18c-d91a458242d3)
 
-
+PROPERTY METRICS INSIGHTS
 ![Property Metrics Insights](https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project/assets/64974135/d09cdb27-d587-4d6d-9912-1a068a131e5f)
 
 
-
+REVENUE INSIGHTS
 ![Revenue Insights](https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project/assets/64974135/d4a7be37-4ab8-4e77-9653-29f9530d2f25)
 
-
+COMPARATIVE CITY AND PROPERTY ANALYSIS
 ![Comparative City and Property Analysis](https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project/assets/64974135/0e2f5529-acab-4100-b2a0-4643443e1277)
 
 
